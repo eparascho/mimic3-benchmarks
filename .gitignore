@@ -96,3 +96,6 @@ ENV/
 # States of models
 keras_states/
 states/
+/mimic3fairness/data/ADMISSIONS.csv
+/mimic3fairness/data/PATIENTS.csv
+/mimic3fairness/data/protected_attributes.csv
