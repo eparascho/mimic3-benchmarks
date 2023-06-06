@@ -99,3 +99,5 @@ states/
 /mimic3fairness/data/ADMISSIONS.csv
 /mimic3fairness/data/PATIENTS.csv
 /mimic3fairness/data/protected_attributes.csv
+/mimic3fairness/data/final_df.csv
+/mimic3fairness/data/final_dataframe.csv
