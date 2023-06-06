@@ -101,3 +101,5 @@ states/
 /mimic3fairness/data/protected_attributes.csv
 /mimic3fairness/data/final_df.csv
 /mimic3fairness/data/final_dataframe.csv
+/mimic3fairness/data/dataframe_final.csv
+/mimic3fairness/data/predictions.csv
